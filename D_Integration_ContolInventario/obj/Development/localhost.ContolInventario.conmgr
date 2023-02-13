@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost.ContolInventario"
+  DTS:DTSID="{0653902A-1395-447A-9E5B-D4E503D4AD84}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=localhost;Initial Catalog=ContolInventario;Integrated Security=True;Application Name=SSIS-D_Integration_ContolInventario-{0653902A-1395-447A-9E5B-D4E503D4AD84}localhost.ContolInventario;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
